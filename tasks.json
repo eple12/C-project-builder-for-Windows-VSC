@@ -7,7 +7,7 @@
             "command": "C:/msys64/usr/bin/bash.exe",
             "args": [
                 "-c",
-                "shopt -s globstar && C:/msys64/ucrt64/bin/g++.exe -fdiagnostics-color=always -g /c/Users/user/Desktop/WorkSpace/Senna-Engine/**/*.cpp -o /c/Users/user/Desktop/WorkSpace/Senna-Engine/app.exe"
+                "shopt -s globstar && C:/msys64/ucrt64/bin/g++.exe -fdiagnostics-color=always -g /c/[the directory goes here]/**/*.cpp -o /c/[the directory goes here]/app.exe"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
